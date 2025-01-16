@@ -1,1 +1,1 @@
-# -Digital-Counter-with-7-Segment-Display
+# Digital-Counter-with-7-Segment-Display
